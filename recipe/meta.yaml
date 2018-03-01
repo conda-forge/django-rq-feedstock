@@ -1,6 +1,6 @@
 {% set name = "django-rq" %}
-{% set version = "0.9.6" %}
-{% set sha256 = "368051f0a3ef08670dd186ea0202cbc7644e199fd48fd31eace2e637e915a7f7" %}
+{% set version = "1.0.1" %}
+{% set sha256 = "628216d036004418d3adea589f7e971134d554995f7692ebb28501dabb7fb31e" %}
 
 package:
   name: {{ name|lower }}
