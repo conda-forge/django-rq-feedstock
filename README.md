@@ -17,12 +17,15 @@ and easily use them in your project.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/django-rq-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-rq-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/django-rq-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/django-rq-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-rq/badges/version.svg)](https://anaconda.org/conda-forge/django-rq)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-rq/badges/downloads.svg)](https://anaconda.org/conda-forge/django-rq)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-django--rq-green.svg)](https://anaconda.org/conda-forge/django-rq) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/django-rq.svg)](https://anaconda.org/conda-forge/django-rq) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/django-rq.svg)](https://anaconda.org/conda-forge/django-rq) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/django-rq.svg)](https://anaconda.org/conda-forge/django-rq) |
 
 Installing django-rq
 ====================
