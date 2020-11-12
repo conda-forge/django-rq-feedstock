@@ -5,9 +5,13 @@ Home: https://github.com/ui/django-rq
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-rq-feedstock/blob/master/LICENSE.txt)
 
 Summary: A simple app that provides django integration for RQ (Redis Queue)
+
+Development: https://github.com/ui/django-rq
+
+Documentation: https://github.com/ui/django-rq
 
 Django integration with RQ, a Redis based Python queuing library. Django-RQ
 is a simple app that allows you to configure your queues in django's settings.py
